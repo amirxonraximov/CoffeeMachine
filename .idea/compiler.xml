@@ -49,6 +49,12 @@
       <module name="Coffee_Machine.Topics-Defining_classes-Points_on_the_2D_plane.main" target="11" />
       <module name="Coffee_Machine.Topics-Defining_classes-Representing_time_as_a_class.main" target="11" />
       <module name="Coffee_Machine.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Days_of_week.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Enum_with_two_constants.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
       <module name="Coffee_Machine.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
@@ -80,10 +86,37 @@
       <module name="Coffee_Machine.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="11" />
       <module name="Coffee_Machine.Topics-Objects-Army.main" target="11" />
       <module name="Coffee_Machine.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Preparing_full_name.main" target="11" />
       <module name="Coffee_Machine.Topics-Objects-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
       <module name="Coffee_Machine.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="11" />
       <module name="Coffee_Machine.Topics-Primitive_and_reference_types-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Boys_in_a_sport_class.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Check_the_given_numbers_are_different.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Determine_the_result.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Groundhogs_at_a_party.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Is_between.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Possible_values_of_a_variable.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-The_result_is_true.main" target="11" />
+      <module name="Coffee_Machine.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-About_static_members.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Accessing_static_members.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Applying_the_static_keyword.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Searching_bugs.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Statements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Static_fields.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Too_many_cats.main" target="11" />
       <module name="Coffee_Machine.Topics-String-Check_burgs.main" target="11" />
       <module name="Coffee_Machine.Topics-String-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Switch_statement-A_simple_calculator.main" target="11" />
